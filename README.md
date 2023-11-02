@@ -1,1 +1,1 @@
-# Gold-price-predictiom
+# Gold-price-prediction
